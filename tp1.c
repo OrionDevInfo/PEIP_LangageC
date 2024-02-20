@@ -95,7 +95,7 @@ int main()
     return 0;
 }
 
-// clang tp1.c -o tp1 ; ./tp1
+// clang tp1.c -o ./Executable/tp1 ; ./Executable/tp1
 /*
 Exercice 1
 Veuillez entrer un entier A: 1
